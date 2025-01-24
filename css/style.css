@@ -217,8 +217,12 @@ p.spielbankfooter-area-copyright {
 }
 
 img.f-2 {
-    max-width: 55px;
+    max-width: 62px;
     border-radius: 10px;
+}
+
+img.f-7 {
+    min-width: 182px;
 }
 
 img.f-5 {
@@ -226,11 +230,12 @@ img.f-5 {
 }
 
 img.f-6 {
-    max-width: 140px;
+    min-width: 170px;
+    border-radius: 6px;
 }
 
 img.f-1 {
-    min-width: 208px;
+    min-width: 240px;
 }
 
 img.f-4 {
