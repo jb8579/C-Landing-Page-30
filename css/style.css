@@ -377,11 +377,11 @@ img.f-4 {
 .spielbank-waning-top > p {
     color: rgb(255 255 255);
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 24px;
-    font-style: normal;
     margin: 0px;
-    padding: 5px 0px;
+    padding: 6px 0px;
+    font-style: italic;
 }
 
 .spielbank-waning-top > p > a{
@@ -389,13 +389,11 @@ img.f-4 {
 }
 
 .spielbank-waning-top {
-    box-shadow: rgba(101, 77, 255, 0.173) 0px 16px 80px 0px;
-    background: black;
+    background: #9f0909;
 }
-
 .spielbank-waning-top > p > img {
-    width: 20px;
+    width: 25px;
     top: -1px;
-    margin-right: 2px;
+    margin-right: 3px;
     border-radius: 50px;
 }
