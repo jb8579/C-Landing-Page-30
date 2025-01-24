@@ -139,8 +139,9 @@
       min-width: 170px;
     }
     .spielbank-waning-top > p {
-      font-size: 10px;
-      line-height: 16px;
+        font-size: 10px;
+        line-height: 12px;
+        padding: 4px 0px 8px 0px;
     }
     .spielbankhojsdhhYjs_img > a > img {
         width: 114px;
