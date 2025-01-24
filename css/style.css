@@ -1,0 +1,401 @@
+.spielbankhojsdhhYjsFlex, .Zjd450w_dP_f {
+    align-items: center;
+    display: flex;
+}
+
+.spielbankhojsdhhYjs_btn > a > button, .spielbankhojsdhhYjs-text > h1, .spielbankhojsdhhYjs-text > p {
+    font-weight: 600;
+    font-family: "Exo 2", serif;
+}
+
+*, .spielbankhojsdhhYjs_btn > a > button, .spielbankfooter-area-links > ul > li > a, p.spielbankfooter-area-copyright, p.spielbankfooter-area-p-a, p.spielbankfooter-area-p-note {
+    font-family: "Exo 2", serif;
+}
+
+.carsd45c-ribbon {
+    position: relative;
+}
+
+.carsd45c-ribbon > img {
+    position: absolute;
+    top: -185px;
+    right: 0;
+    animation: infinite-rotate 3s linear infinite; /* Attach animation */
+    transform-origin: center; /* Set rotation origin to the center */
+}
+
+/* Keyframes for rotation animation */
+@keyframes infinite-rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+.card-b-offer, .spielbank-waning-top {
+    width: 100%;
+    overflow: hidden;
+}
+
+.contact-social, .spielbank-waning-top {
+    text-align: center;
+}
+
+.card-b-offer, .card-image, .spielbank-waning-top > p > img, .spielbankfooter-area, body {
+    position: relative;
+}
+
+.overlay, body::before {
+    position: absolute;
+    left: 0px;
+}
+
+p.spielbankfooter-area-p-a > a, p.spielbankfooter-area-p-a > a:hover {
+    text-decoration: underline;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.spielbankhojsdhhYjs {
+    background: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url("../images/background-img-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    z-index: 1;
+    background-attachment: fixed;
+}
+
+body::before {
+    content: "";
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: -1;
+    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.92) 11.2%, rgba(8, 8, 8, 0.87) 51.2%, rgba(0, 0, 0, 0.425) 98.6%);
+    height: 100%;
+}
+
+.overlay h3, .overlay p {
+    text-align: left;
+    z-index: 1;
+}
+
+.spielbankhojsdhhYjsFlex {
+    justify-content: space-between;
+    padding: 8px 0px;
+}
+
+.spielbankhojsdhhYjs_img > a > img {
+    width: 245px;
+}
+
+.spielbankhojsdhhYjs_btn > a {
+    display: inline-block;
+    margin: 0px 4px;
+}
+
+.spielbankhojsdhhYjs_btn > a > button {
+    padding: 8px 24px;
+    border-radius: 50px;
+    border: 2px solid rgb(83, 83, 83);
+    outline: 0px;
+    font-size: 15px;
+    background: rgb(255, 255, 255);
+    color: rgb(49, 49, 49);
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+.spielbankhojsdhhYjs_btn > a > button.log {
+    background: rgb(198, 12, 48);
+    color: rgb(255, 255, 255);
+    border: 0px;
+    text-transform: uppercase;
+}
+
+.ContentArea {
+    padding: 30px 0px 0px;
+}
+
+.spielbankhojsdhhYjs-text > h1 {
+    color: rgb(255, 255, 255);
+    font-size: 31px;
+}
+
+.spielbankhojsdhhYjs-text > p {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 5px 0px;
+    font-weight: 300;
+}
+
+.PoI542T_l2241 {
+    padding: 8px 0px;
+}
+
+.Zjd450w_dP_f {
+    justify-content: space-between;
+}
+
+.spielbankfooter-area {
+    border-width: 1px;
+    padding: 30px 15px 20px;
+    bottom: 0px;
+    background: rgb(255, 255, 255);
+    margin: 60px 0px 0px;
+}
+
+p.spielbankfooter-area-p-a, p.spielbankfooter-area-p-note {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    line-height: 24px;
+    margin: 20px 0px 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p.spielbankfooter-area-copyright, p.spielbankfooter-area-copyright > a, p.spielbankfooter-area-p-a > a {
+    color: rgb(0, 0, 0) !important;
+}
+
+p.spielbankfooter-area-copyright {
+    font-weight: 500;
+    padding: 8px;
+    margin: 0px;
+    font-size: 13px !important;
+}
+
+.spielbankfooter-area-links > ul > li {
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 2px;
+}
+
+.spielbankfooter-area-links > ul > li > a {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    text-decoration: underline !important;
+}
+
+.spielbankfooter-area-links li a::after {
+    display: inline-block;
+    padding: 0px 0px 0px 0.5em;
+    color: rgb(255, 255, 255);
+    content: "|";
+}
+
+.spielbankfooter-area-links li:last-child a::after {
+    color: transparent;
+}
+
+.spielbankfooter-area-links > ul {
+    padding-left: 0px;
+    text-align: center;
+}
+
+.contact-social > ul {
+    display: inline-flex;
+    list-style: none;
+    align-items: baseline;
+    margin: 0px;
+    padding: 0px;
+}
+
+img.f-2 {
+    max-width: 55px;
+    border-radius: 10px;
+}
+
+img.f-5 {
+    min-width: 135px;
+}
+
+img.f-6 {
+    max-width: 140px;
+}
+
+img.f-1 {
+    min-width: 208px;
+}
+
+img.f-4 {
+    min-width: 150px;
+}
+
+.contact-social ul li a {
+    display: inline-block;
+    height: 70px;
+    transition: 0.4s;
+    max-width: 250px;
+    padding: 10px;
+}
+
+.spielbankhojsdhhYjs-text {
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.contact-social ul li a > img {
+    width: 120px;
+}
+
+.overlay.card-active-overlay {
+    top: -70px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 25px 0px;
+}
+
+.card-b-offer {
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.card-b-offer{
+    display: block;
+    transition: transform 0.5s;
+}
+
+.card-b-offer:hover {
+    transform: scale(1.015);
+}
+
+.overlay {
+    top: -76px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 10px;
+    pointer-events: none;
+}
+
+.overlay h3 {
+    font-size: 28px;
+    color: rgb(255, 254, 252);
+    width: 280px;
+    font-weight: 600;
+    font-style: italic;
+    text-shadow: 0px 5px 5px #0a0a0ab3;
+}
+
+.overlay p {
+    font-size: 15px;
+    color: rgb(235, 233, 233);
+    width: 260px;
+    font-weight: 600;
+    font-family: "Josefin Sans", serif;
+    line-height: 20px;
+    padding: 12px 0px 0px 0px;
+}
+
+.spielbankcar-dcontent {
+    padding: 20px;
+    background: rgb(255, 255, 255);
+}
+
+.spielbankcar-dcontent h4 {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.spielbankcar-dcontent > p {
+    color: #9f0909;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.spielbankcar-dcontent .btn {
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: 600;
+    background: rgb(0, 0, 0);
+}
+
+.spielbankcar-dcontent .btn:hover {
+    background: #9f0909;
+    color: rgb(255, 255, 255);
+}
+
+.sub-text {
+    padding: 30px 0px;
+}
+
+.sub-text > h2 {
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    padding: 12px 0px;
+}
+
+.sub-text > p, .sub-text > ul > li {
+    font-size: 16px;
+    color: rgb(223, 223, 223);
+    padding: 4px 0px;
+}
+
+.container.s-title {
+    color: rgb(255, 255, 255);
+    padding-top: 35px;
+}
+
+.spielbank-waning-top > p {
+    color: rgb(255 255 255);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    font-style: normal;
+    margin: 0px;
+    padding: 5px 0px;
+}
+
+.spielbank-waning-top > p > a{
+    color: #fff;
+}
+
+.spielbank-waning-top {
+    box-shadow: rgba(101, 77, 255, 0.173) 0px 16px 80px 0px;
+    background: black;
+}
+
+.spielbank-waning-top > p > img {
+    width: 20px;
+    top: -1px;
+    margin-right: 2px;
+    border-radius: 50px;
+}
